@@ -1,0 +1,18 @@
+.jumbotron {
+	background-image: url(https://cdn.vox-cdn.com/uploads/chorus_asset/file/8557761/Palantiri.jpg);
+	background-size: cover;
+	height: 90vh;
+	color: white;
+}
+.navbar-brand img {
+	height: 1.5em;
+	margin: 10px;
+}
+.media img {
+	width: 70px;
+	height: 70px;
+}
+
+.carousel .carousel-item img {
+	max-height: 500px;
+	min-width: auto;

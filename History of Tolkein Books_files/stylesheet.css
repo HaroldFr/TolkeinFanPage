@@ -1,0 +1,25 @@
+.main {
+	width: 40%;
+	margin: auto;
+	display: block;
+}
+.sign {
+	width: 200px;
+	margin: auto;
+	display: block;
+	border: 5px solid #000080;
+}
+.cover {
+	width: 40%;
+	height: 50%;
+	margin: auto;
+	display: block
+}
+h1, h2, h3, h4 {
+	text-align: center;
+	margin: 10px 40px;
+}
+
+.about {
+	color: royalblue;
+}
